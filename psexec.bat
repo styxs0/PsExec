@@ -20,12 +20,12 @@ echo.
 echo  ╔════════════╗
 echo  ║  Username  ║
 echo  ╚════════════╝
-set /p user=">> "
+set /p user="picus"
 echo.
 echo  ╔════════════╗
 echo  ║  Password  ║
 echo  ╚════════════╝
-set /p pass=">> "
+set /p pass="asesvpici"
 echo.
 echo %info% Connecting to %domain%...
 rem Disconnects any running connections
