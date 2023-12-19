@@ -2,7 +2,7 @@
 cd files >nul
 mode 100, 30
 color 0B
-title PsExec
+title Á seš piči
 set success=[92m[+][0m
 set warning=[91m[!][0m
 set info=[94m[*][0m
